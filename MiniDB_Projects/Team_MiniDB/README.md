@@ -48,13 +48,9 @@ make
 
 Then SQL works: CREATE TABLE, INSERT, SELECT, DELETE, BEGIN/COMMIT, CRASH/RECOVER.
 
----
-
-## Team workflow
-
-See **[TEAM_PR_GUIDE.md](TEAM_PR_GUIDE.md)** for exact git steps and PR instructions.
 
 ---
+
 
 ## Submission
 
